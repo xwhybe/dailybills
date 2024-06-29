@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/myimage">
+        <file>new_icon/Background.jpg</file>
+        <file>new_icon/add.png</file>
+        <file>new_icon/arrows.png</file>
+        <file>new_icon/bills_icon.png</file>
+        <file>new_icon/bin.png</file>
+        <file>new_icon/book.png</file>
+        <file>new_icon/cars.png</file>
+        <file>new_icon/clock_icon.png</file>
+        <file>new_icon/mainlogo.jpg</file>
+        <file>new_icon/working.png</file>
+        <file>new_icon/image/edu.png</file>
+        <file>new_icon/image/else.png</file>
+        <file>new_icon/image/go out.png</file>
+        <file>new_icon/image/salary.png</file>
+        <file>new_icon/res/bonus.png</file>
+        <file>new_icon/res/borrowfund.png</file>
+        <file>new_icon/res/food.png</file>
+        <file>new_icon/res/game.png</file>
+        <file>new_icon/res/lottery.png</file>
+        <file>new_icon/res/medical.png</file>
+        <file>new_icon/res/part-time-job.png</file>
+        <file>new_icon/res/shopping.png</file>
+        <file>new_icon/res/subsidy.png</file>
+        <file>new_icon/education.jpg</file>
+        <file>new_icon/mymainlogo.jpg</file>
+    </qresource>
+</RCC>
